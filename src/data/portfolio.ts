@@ -206,9 +206,9 @@ export const portfolioData = {
         "Real-time synchronization across connected users",
         "File handling up to 25 MB per pad"
       ],
-      // URLs set to undefined if not supplied, per strict accuracy requirement
+      // Verified public repository URL
       liveUrl: undefined,
-      githubUrl: undefined
+      githubUrl: "https://github.com/srujan0516/open_pad"
     },
     {
       id: "community-care",
@@ -267,7 +267,7 @@ export const portfolioData = {
         "5. Gemini API generates an accurate, context-aware technical response"
       ],
       liveUrl: undefined,
-      githubUrl: undefined
+      githubUrl: "https://github.com/srujan0516/IncidentIQ"
     }
   ] as Project[],
 
